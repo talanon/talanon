@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/talanon"><img src="https://api.daily.dev/devcards/0a6bc0ee485c435ead1200d347d6f233.png?r=dwk" width="400" alt="talanon's Dev Card"/></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 <!--
 **talanon/talanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
