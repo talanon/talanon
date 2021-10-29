@@ -1,7 +1,6 @@
-<h1 align="center">Bienvenue sur mon profil 👋</h1>
-<h3 align="center">Ingénieur Chef de projet / Développeur Back-end</h3>
+<h3 align="center">Ingénieur Chef de projet / Développeur Back-end 🔭</h3>
 <hr/>
-<h3 align="center">Prenez contact</h3>
+<h3 align="center">Prenez contact 📣</h3>
 <div align="center">
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-meyer-b6a36494/)
